@@ -1,5 +1,5 @@
 
-# Hyperplanning opener
+# Hyperplanning Opener
 
 A python script made with selenium chrome driver that automatically open the Hyperplanning website and choose the right section for your classes.
 
