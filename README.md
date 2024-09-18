@@ -8,7 +8,7 @@ A python script made with selenium chrome driver that automatically open the Hyp
 ## Installation
 
 - Install selenium via pip.
-- Download the driver of your browser for selenium.
+- Download the driver for your browser for selenium.
 - Edit all the categories that the script is supposed to click on.
 - Create a bash file and/or a shortcut to your script.
 
@@ -16,7 +16,7 @@ A python script made with selenium chrome driver that automatically open the Hyp
     
 ## Discord bot
 
-A great tool with selenium is the ability to take screenshot of the current website, allowing you to send it to the discord of your classmates.
+A great tool with selenium is the ability to take screenshot of the current website, allowing you to send it to the discord server of your classmates.
 
 ### Installation
 
